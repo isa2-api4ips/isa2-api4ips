@@ -1,3 +1,3 @@
 **ISA2-API4IPS**
 
-All repositories related to ISA2
+All repositories related to ISA²
