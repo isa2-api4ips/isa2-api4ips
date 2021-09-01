@@ -1,3 +1,4 @@
 **ISA2-API4IPS**
 
-All repositories related to ISA²
+
+Repositories related to ISA² funded pilot actions for APIs
